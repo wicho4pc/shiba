@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgba(255, 166, 0, 0.692);
+}
+.navbar-main .active{
+    text-decoration: underline wavy black;
+}
+#inicio{
+    padding: 60px 50px;
+}
+#facts{
+    padding: 60px 50px;
+}
